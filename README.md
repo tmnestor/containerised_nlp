@@ -1,6 +1,6 @@
 # Containerised nlp
 
-A quick and easy setup for running Jupyter NLP notebooks in a Dockerized environment, managed using [Docker Compose](https://docs.docker.com/compose/). This setup makes it simple to get up and running with Jupyter and LLMs, share notebooks across multiple team members, and maintain consistent environments.
+A quick and easy setup for running Jupyter NLP notebooks in a Dockerized environment, managed using [Docker Compose](https://docs.docker.com/compose/). This setup makes it simple to get up and running with Jupyter and LLMs, share notebooks across multiple team members, and maintain consistent environments. 
 
 ## Features
 
